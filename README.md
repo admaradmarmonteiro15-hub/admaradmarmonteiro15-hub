@@ -1,17 +1,16 @@
 # Admar Monteiro
 
-Profissional de contabilidade em Cabo Verde, focado em automação aplicada a processos fiscais, integração contabilística e controlo financeiro.
+Profissional de contabilidade e Audiroria em Cabo Verde, focado em automação aplicada a processos fiscais, integração contabilística e controlo financeiro.
 
-Trabalho na ligação entre contabilidade e tecnologia: organizo dados, valido movimentos, preparo mapas de controlo e crio ferramentas que reduzem trabalho manual e erros antes da importação para ERP.
+Trabalho na ligação entre contabilidade, auditoria e tecnologia: organizo dados, valido movimentos, preparo mapas de controlo e crio ferramentas que reduzem trabalho manual e erros antes da importação para ERP.
 
 ## Foco atual
 
 - Automação contabilística e fiscal
 - Integração com ERP Primavera / CBL
 - Ficheiros TXT de largura fixa, validados byte a byte
-- Mapas de controlo em Excel
 - Tratamento de documentos fiscais eletrónicos
-- Anexos de IVA e conferências contabilísticas
+- Declarações Fiscais e conferências contabilísticas
 - Reconciliação de dados financeiros
 
 ## Ferramentas que uso
