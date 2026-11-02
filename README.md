@@ -7,11 +7,6 @@ Trabalho na ligação entre contabilidade, auditoria e tecnologia: organizo dado
 ## Foco atual
 
 - Automação contabilística e fiscal
-- Integração com ERP Primavera / CBL
-- Ficheiros TXT de largura fixa, validados byte a byte
-- Tratamento de documentos fiscais eletrónicos
-- Declarações Fiscais e conferências contabilísticas
-- Reconciliação de dados financeiros
 
 ## Ferramentas que uso
 
